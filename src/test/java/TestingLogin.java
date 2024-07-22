@@ -38,11 +38,7 @@ public class TestingLogin {
                 {"Mihail","muie22"}, // fail
                 {"Bob", "bobspassword"},//fail
                 {"david", "qwerty21!"},//pass
-                //{"ll_admin", "test"},//pass
-                //{"test1", "qwerty21!"},//pass
-                //{"test2", "qwerty21!"},//pass
-                //{"user", "qwerty21!"}//pass
-                        };
+                 };
     }
 
     //@Test
