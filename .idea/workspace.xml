@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67494b01-4031-413d-bbf1-bcdd6b2cdb98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/username-password.xml" afterDir="false" />
+    <list default="true" id="67494b01-4031-413d-bbf1-bcdd6b2cdb98" name="Changes" comment="Second">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MultipleUses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestEditEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestNewTopic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestingLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/username-password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/username-password.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,41 +29,46 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "David123822"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;David123822&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/David123822/IugaDavid_ProiectFinal.git",
-    "accountId": "686669ed-c482-4983-a75b-37453ce9b4d7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/David123822/IugaDavid_ProiectFinal.git&quot;,
+    &quot;accountId&quot;: &quot;686669ed-c482-4983-a75b-37453ce9b4d7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2jEZAx1ah93Dk4VEbZiU7vyoO33" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml.executor": "Run",
-    "TestNG.TestingLogin.accessThePage.executor": "Run",
-    "TestNG.TestingLogin.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestEditEntry.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestEntry.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestNewTopic.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestingLogin.accessThePage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestingLogin.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="IugaDavid_ProiectFinal" />
@@ -86,6 +95,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720954057073</updated>
     </task>
+    <task id="LOCAL-00001" summary="Second commit">
+      <option name="closed" value="true" />
+      <created>1720959841873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720959841873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
 </project>
