@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67494b01-4031-413d-bbf1-bcdd6b2cdb98" name="Changes" comment="Second">
+    <list default="true" id="67494b01-4031-413d-bbf1-bcdd6b2cdb98" name="Changes" comment="Update">
+      <change afterPath="$PROJECT_DIR$/src/test/FailedUsers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FailedLogin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestingLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/username-password.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/username-password.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,26 +47,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestEditEntry.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestEntry.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestNewTopic.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestingLogin.accessThePage.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestingLogin.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/FailedUsers.xml.executor": "Run",
+    "TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml.executor": "Run",
+    "TestNG.FailedLogin.executor": "Run",
+    "TestNG.TestEditEntry.executor": "Run",
+    "TestNG.TestEntry.executor": "Run",
+    "TestNG.TestNewTopic.executor": "Run",
+    "TestNG.TestingLogin.accessThePage.executor": "Run",
+    "TestNG.TestingLogin.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
+    <configuration name="C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/FailedUsers.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IugaDavid_ProiectFinal" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/FailedUsers.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="IugaDavid_ProiectFinal" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/username-password.xml" />
@@ -74,8 +89,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FailedLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IugaDavid_ProiectFinal" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FailedLogin" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/FailedUsers.xml" />
+        <item itemvalue="TestNG.FailedLogin" />
         <item itemvalue="TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml" />
       </list>
     </recent_temporary>
@@ -105,12 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721664612356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <option name="closed" value="true" />
+      <created>1721665064138</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721665064138</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="Second" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
