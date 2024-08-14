@@ -34,16 +34,6 @@ public class TestingLogin {
         }
     }
 
-    //@DataProvider(name = "loginData")
-    //public Object[][] loginData(){
-    //    return new Object[][]{
-    //            {"David", "qwerty21!"},//fail
-    //            {"Alice", "alicepwd"},
-    //            {"Mihail","test"}, // fail
-    //            {"Bob", "bobspassword"},//fail
-    //            {"david", "qwerty21!"},//pass
-    //             };
-    //}
 
     @Test
     //@Test(dataProvider = "loginData")

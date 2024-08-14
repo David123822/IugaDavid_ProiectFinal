@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67494b01-4031-413d-bbf1-bcdd6b2cdb98" name="Changes" comment="fixed">
+    <list default="true" id="67494b01-4031-413d-bbf1-bcdd6b2cdb98" name="Changes" comment="pop up removed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestingLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingLogin.java" afterDir="false" />
     </list>
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -58,7 +63,7 @@
     &quot;TestNG.TestNewTopic.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.TestingLogin.accessThePage.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.TestingLogin.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;removedPopup&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
@@ -71,10 +76,20 @@
       <recent name="C:\Users\iugad\OneDrive\Desktop\IugaDavid_ProiectFinal\src\test\java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/FailedUsers.xml">
     <configuration name="C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/FailedUsers.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="IugaDavid_ProiectFinal" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/FailedUsers.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/FailedUsers.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="IugaDavid_ProiectFinal" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/FailedUsers.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -106,8 +121,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/FailedUsers.xml" />
-        <item itemvalue="TestNG.FailedLogin" />
+        <item itemvalue="TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/FailedUsers.xml" />
         <item itemvalue="TestNG.C:/Users/iugad/OneDrive/Desktop/IugaDavid_ProiectFinal/src/test/java/username-password.xml" />
+        <item itemvalue="TestNG.FailedLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -160,8 +176,27 @@
       <option name="project" value="LOCAL" />
       <updated>1721687853434</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pop up removed">
+      <option name="closed" value="true" />
+      <created>1721924596384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721924596384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
@@ -169,6 +204,7 @@
     <MESSAGE value="Update" />
     <MESSAGE value="negative test added" />
     <MESSAGE value="fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
+    <MESSAGE value="pop up removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="pop up removed" />
   </component>
 </project>
